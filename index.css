@@ -1,0 +1,45 @@
+.site {
+    padding: 20px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.img-logo {
+    width: 5rem;
+    border-radius: 80%;
+}
+
+.name {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.descrip {
+    margin-bottom: 2rem;
+}
+
+.img-feature {
+    width: 15rem;
+    margin-right: 1rem;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.images-container {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.images {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    overflow: scroll;
+}
+
+.c {
+    border: 1px solid black;
+}
