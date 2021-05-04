@@ -43,3 +43,8 @@
 .c {
     border: 1px solid black;
 }
+
+.link {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
