@@ -1,0 +1,3 @@
+User-Agent: *
+Allow: /
+Sitemap: http://smash-it-alarm.github.io/sitemap.xml
